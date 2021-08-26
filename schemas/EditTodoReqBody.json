@@ -1,0 +1,8 @@
+{
+  "type": "object",
+  "properties": {
+    "message": { "type": "string" },
+    "completed?": { "type": "boolean", "nullable": true }
+  },
+  "required": ["message"]
+}
